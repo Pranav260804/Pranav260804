@@ -60,3 +60,14 @@ Portfolio (pranavkale.ai launching soon)
 ![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge)
+## 🧠 Mission
+
+Building intelligent AI systems for real-world infrastructure.
+
+Focused on:
+• Computer Vision  
+• Smart Cities  
+• Traffic Intelligence  
+• AI Automation  
+
+Goal: Build impactful AI systems and pursue a global master's degree in Artificial Intelligence.
