@@ -2,39 +2,49 @@
 
 AI / ML Engineering Student | Computer Vision | Intelligent Systems
 
-I build intelligent systems that solve real-world problems using **Artificial Intelligence and Machine Learning**.
+I am passionate about building **intelligent AI systems that solve real-world infrastructure problems**.
+My long-term mission is to contribute to **global technological innovation** through Artificial Intelligence and pursue a **Master's degree abroad with a focus on impactful AI research.**
+
+I believe AI should not only exist in research papers but should **improve real systems used by millions of people every day.**
 
 ---
 
 # 🚀 AI Systems Lab
 
+I actively build experimental AI systems focused on **real-world infrastructure and intelligent automation**.
+
 ### 🛣️ AI Toll Traffic Management
 
-AI system that monitors toll booth congestion and optimizes vehicle flow using computer vision.
+An AI-powered system designed to monitor toll booth congestion and optimize vehicle flow using computer vision and intelligent traffic analysis.
 
 ### 👁️ Real-Time Object Detection
 
-Deep learning system capable of detecting multiple objects from live camera input.
+A deep learning system capable of detecting and identifying multiple real-world objects from live camera feeds using modern computer vision techniques.
 
 ### 📄 AI Resume Parser
 
-Natural language processing system that extracts structured information from resumes.
+A Natural Language Processing system that extracts structured data such as skills, experience, and contact information from resumes automatically.
 
 ### 🚗 Road Sense AI
 
-Computer vision system designed to analyze road environments and vehicle movement.
+A computer vision system designed to analyze road environments and detect vehicle movement patterns for future smart traffic systems.
 
 ### 🏷️ Label Buster AI
 
-AI model designed for automated label classification and dataset analysis.
+An intelligent AI tool for automated dataset labeling and classification, designed to assist machine learning data pipelines.
 
 ---
 
 # 🎯 Current Focus
 
+My current learning and research interests include:
+
 • Artificial Intelligence
 • Machine Learning
 • Computer Vision
+• Intelligent Infrastructure Systems
+
+I am particularly interested in **AI systems that can power smart cities and next-generation transportation networks.**
 
 ---
 
@@ -68,21 +78,24 @@ AI model designed for automated label classification and dataset analysis.
 
 # 🧠 Mission
 
-Building intelligent AI systems for **real-world infrastructure and smart cities**.
+I want to build **AI technologies that improve large-scale systems such as transportation, infrastructure, and automation.**
 
-Focused on:
+My work focuses on:
+
 • Computer Vision
 • Smart Cities
 • Traffic Intelligence
 • AI Automation
 
-Goal: Build impactful AI systems and pursue a **global Master's degree in Artificial Intelligence**.
+I aim to contribute to **global AI innovation through research, development, and real-world deployment.**
 
 ---
 
 # 🌍 Future Vision
 
-Building impactful AI systems and pursuing a **global Master's degree in Artificial Intelligence**.
+My long-term goal is to pursue a **Master's degree in Artificial Intelligence abroad**, where I can work with world-class researchers and contribute to **cutting-edge AI research and intelligent systems.**
+
+I aspire to build technologies that **solve global challenges and improve human life at scale.**
 
 ---
 
