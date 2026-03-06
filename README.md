@@ -47,9 +47,16 @@ Portfolio (pranavkale.ai launching soon)
 
 ## 📊 GitHub Stats
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav260804&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav260804&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranavkale&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkale&layout=compact&theme=tokyonight" />
+
+</p>
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
