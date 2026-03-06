@@ -43,3 +43,8 @@ Building impactful AI systems and pursuing a global Master's degree in Artificia
 
 LinkedIn (coming soon)  
 Portfolio (pranavkale.ai launching soon)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav260804&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav260804&layout=compact&theme=tokyonight)
