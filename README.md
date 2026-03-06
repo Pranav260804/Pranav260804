@@ -79,6 +79,9 @@ My mission is to build intelligent AI systems that contribute to the development
 I aim to pursue a **fully funded Master's degree in Artificial Intelligence abroad**, where I can deepen my research capabilities and work on impactful AI technologies.
 
 ---
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 # 📫 Connect With Me
 
