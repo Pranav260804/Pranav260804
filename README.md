@@ -45,6 +45,11 @@ LinkedIn (coming soon)
 Portfolio (pranavkale.ai launching soon)
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav260804&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav260804&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav260804&layout=compact&theme=tokyonight)
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
