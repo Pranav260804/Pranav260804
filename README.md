@@ -112,9 +112,9 @@ I am particularly interested in **AI systems that interact with the physical wor
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav260804&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav260804&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav260804&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav260804&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,7 +122,7 @@ I am particularly interested in **AI systems that interact with the physical wor
 
 # 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavKale&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav260804&theme=tokyo-night)
 
 ---
 
