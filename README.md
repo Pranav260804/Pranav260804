@@ -112,9 +112,9 @@ I am particularly interested in **AI systems that interact with the physical wor
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PranavKale&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav260804&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKale&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav260804&layout=compact&theme=tokyonight"/>
 
 </p>
 
