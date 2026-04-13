@@ -27,6 +27,8 @@ I aspire to work at the intersection of **AI research and practical deployment**
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Kale-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/pranav-kale-809501340/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Kale-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-kale-809501340/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@praannav-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/praannav/)
+[![Instagram](https://img.shields.io/badge/Instagram-@praannav-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praannav/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2esab4fbq-pranav260804s-projects.vercel.app/)
