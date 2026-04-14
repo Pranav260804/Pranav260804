@@ -31,4 +31,4 @@ I aspire to work at the intersection of **AI research and practical deployment**
 
 [![Instagram](https://img.shields.io/badge/Instagram-@praannav-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praannav/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2esab4fbq-pranav260804s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-peach-two-j87fvnar5n.vercel.app/)
